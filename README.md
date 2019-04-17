@@ -23,7 +23,7 @@ The following **bonus** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-<http://recordit.co/baaUoxkws4>
+<img src= 'http://recordit.co/baaUoxkws4'>
 
 # Parstagram - Part I
 
@@ -50,4 +50,4 @@ The following **bonus** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-<http://recordit.co/cULBWcjnYQ>
+<img src= 'http://recordit.co/cULBWcjnYQ'>
